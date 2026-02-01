@@ -58,6 +58,4 @@ This script specifically answers the following analytical questions:
 
 ---
 
-
-  <p>Created by [Your Name] • 2024</p>
 </div>
